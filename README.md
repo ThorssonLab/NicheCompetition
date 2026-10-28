@@ -1,0 +1,2 @@
+This repository contains the implementations for "Integrating Diagnostic Labs with Mechanistic ODE Models for Personalized Prognostication in Acute Myeloid Leukemia" titled manuscript draft. 
+The ODE model has been modified from the implementation from Stiehl T. Using mathematical models to improve risk-scoring in acute myeloid leukemia. Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 Dec 1;30(12).
