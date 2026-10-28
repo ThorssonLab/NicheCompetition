@@ -62,7 +62,6 @@ def NicheModel(t, y, p):
     p_occ_H_total = p_empty + p_occ_L * p['p_LSCbyHSC']
     p_lodge_H = 1.0 - (1.0 - min(p_occ_H_total, 1.0))**p['tilde_n']
 
-    # External hooks for pushed out cells
     tmp1 = HSC_pushed_out(p_lodge_L, p['p1l'], LSC, p_occ_H, p['p_HSCbyLSC'], p_empty, p['tilde_n'])
     tmp2 = LSC_pushed_out(p_lodge_H, p['p1'] * s, HSC, p_occ_L, p['p_LSCbyHSC'], p_empty, p['tilde_n'])
 
