@@ -1,2 +1,2 @@
-This repository contains the implementations for "Predicting Survival in Venetoclax-Azacitidine Treated Acute Myeloid Leukemia Using a Diagnostic-Driven Mechanistic Digital Twin" titled manuscript draft. 
+This repository contains the implementations for "Predicting Survival in Venetoclax-Azacitidine Treated Acute Myeloid Leukemia Using a Diagnostic-Driven Mechanistic Digital Twin" titled manuscript. 
 The ODE model has been modified from the implementation from Stiehl T. Using mathematical models to improve risk-scoring in acute myeloid leukemia. Chaos: An Interdisciplinary Journal of Nonlinear Science. 2020 Dec 1;30(12).
